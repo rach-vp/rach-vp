@@ -39,7 +39,7 @@ const aboutMe = {
     },
     databases: ['mongo'],
     tests: ['jest', 'cucumber', 'selenium', 'capybara'],
-    misc: ['git', 'bash', 'mql5', 'pinescript'],
+    misc: ['git', 'bash', 'webpack', 'mql5', 'pinescript'],
   }
 }
 ```
