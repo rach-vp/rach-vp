@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ```javascript
 const aboutMe = {
   pronouns: 'She' | 'Her',
-  askMeAbout: ['web dev', 'tech', 'trade', 'games', 'math'],
+  askMeAbout: ['web dev', 'tech', 'trading', 'games', 'math'],
   work: null,
   level: 'junior',
   education: {
@@ -35,9 +35,9 @@ const aboutMe = {
     },
     backEnd: {
       js: ['node', 'express'],
-      python: [],
+      python: ['django'],
     },
-    databases: ['mongo'],
+    databases: ['mongo', 'mysql', 'postgresql'],
     tests: ['jest', 'cucumber', 'selenium', 'capybara'],
     misc: ['git', 'bash', 'webpack', 'mql5', 'pinescript'],
   }
