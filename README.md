@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 const aboutMe = {
   pronouns: 'She' | 'Her',
   askMeAbout: ['web dev', 'tech', 'trading', 'games', 'math'],
-  work: null,
+  work: {
+    'Jungle Devs': 'Software Engineer Associate',
+  },
   level: 'junior',
   education: {
     'Trybe': 'Full-stack Web Development',
