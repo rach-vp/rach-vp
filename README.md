@@ -25,7 +25,7 @@ const aboutMe = {
   work: {
     'Jungle Devs': 'Software Engineer Associate',
   },
-  level: 'junior',
+  level: 'mid-level',
   education: {
     'Trybe': 'Full-stack Web Development',
   },
@@ -33,14 +33,19 @@ const aboutMe = {
   technologies: {
     frontEnd: {
       css: ['sass', 'tailwind', 'bootstrap'],
-      js: ['react', 'vue'],
+      js: ['react', 'vue', 'angular'],
     },
     backEnd: {
       js: ['node', 'express'],
       python: ['django'],
+      java: ['spring boot'],
+    },
+    devops: {
+      'iac': ['docker', 'ansible', 'vagrant'],
+      'cloud': ['aws'],
     },
     databases: ['mongo', 'mysql', 'postgresql'],
-    tests: ['jest', 'cucumber', 'selenium', 'capybara'],
+    tests: ['jest', 'cucumber', 'selenium', 'capybara', 'rtl', 'mocha', 'chai', 'sinon', 'pytest', 'junit'],
     misc: ['git', 'bash', 'webpack', 'mql5', 'pinescript'],
   }
 }
