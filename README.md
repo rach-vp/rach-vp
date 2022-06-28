@@ -45,7 +45,7 @@ const aboutMe = {
       'cloud': ['aws'],
     },
     databases: ['mongo', 'mysql', 'postgresql'],
-    tests: ['jest', 'cucumber', 'selenium', 'capybara', 'rtl', 'mocha', 'chai', 'sinon', 'pytest', 'junit'],
+    tests: ['jest', 'rtl', 'mocha', 'chai', 'sinon', 'pytest', 'junit'],
     misc: ['git', 'bash', 'webpack', 'mql5', 'pinescript'],
   }
 }
