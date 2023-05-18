@@ -23,11 +23,12 @@ const aboutMe = {
   pronouns: 'She' | 'Her',
   askMeAbout: ['web dev', 'tech', 'trading', 'games', 'math'],
   work: {
-    'Jungle Devs': 'Software Engineer Associate',
+    'CI&T': 'Mid-level Developer',
   },
   level: 'mid-level',
   education: {
     'Trybe': 'Full-stack Web Development',
+    'Uninter': 'Software Engineering',
   },
   code: ['javascript', 'python', 'ruby'],
   technologies: {
@@ -36,15 +37,15 @@ const aboutMe = {
       js: ['react', 'vue', 'angular'],
     },
     backEnd: {
-      js: ['node', 'express'],
+      js: ['node', 'express', 'nestjs'],
       python: ['django'],
-      java: ['spring boot'],
     },
     devops: {
-      'iac': ['docker', 'ansible', 'vagrant'],
+      'iac': ['terraform', 'ansible', 'vagrant'],
       'cloud': ['aws'],
+      'build': ['kubernetes', 'docker'],
     },
-    databases: ['mongo', 'mysql', 'postgresql'],
+    databases: ['mongodb', 'mysql', 'postgresql'],
     tests: ['jest', 'rtl', 'mocha', 'chai', 'sinon', 'pytest', 'junit'],
     misc: ['git', 'bash', 'webpack', 'mql5', 'pinescript'],
   }
